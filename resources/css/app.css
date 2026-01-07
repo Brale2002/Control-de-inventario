@@ -1,0 +1,31 @@
+.table-modern {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    font-size: 14px;
+}
+
+.table-modern thead tr {
+    background: #1a1a1a;
+    color: #fff;
+}
+
+.table-modern th, 
+.table-modern td {
+    padding: 12px 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.table-modern tbody tr:nth-child(even) {
+    background: #f4f4f4;
+}
+
+.table-modern tbody tr:hover {
+    background: #eaeaea;
+}
+
+.table-modern .btn {
+    margin: 2px;
+}
+
